@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HomeTaskReflection/1.0.0": {
+        "runtime": {
+          "HomeTaskReflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeTaskReflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
